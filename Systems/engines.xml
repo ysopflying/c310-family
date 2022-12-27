@@ -63,7 +63,7 @@
 					</tableData>
 				</table>
 			</function>
-		</pure_gain>
+		</fcs_function>
 		
 		<fcs_function name="fcs/mixture-pos-norm[1]">
 			<function>
@@ -79,6 +79,6 @@
 					</tableData>
 				</table>
 			</function>
-		</pure_gain>
+		</fcs_function>
 	</channel>
 </system>
